@@ -1,0 +1,7 @@
+select.error, textarea.error, input.error {
+    color:#cc0000
+}
+
+.my-error-class {
+    color:#cc0000;
+}
